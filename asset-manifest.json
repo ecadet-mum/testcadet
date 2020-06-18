@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testcadet/static/css/main.5f361e03.chunk.css",
+    "main.js": "/testcadet/static/js/main.e4a0f155.chunk.js",
+    "main.js.map": "/testcadet/static/js/main.e4a0f155.chunk.js.map",
+    "runtime-main.js": "/testcadet/static/js/runtime-main.d4175044.js",
+    "runtime-main.js.map": "/testcadet/static/js/runtime-main.d4175044.js.map",
+    "static/js/2.31711120.chunk.js": "/testcadet/static/js/2.31711120.chunk.js",
+    "static/js/2.31711120.chunk.js.map": "/testcadet/static/js/2.31711120.chunk.js.map",
+    "index.html": "/testcadet/index.html",
+    "precache-manifest.71f939bb61e1c057ef2a63e1c7a54ca0.js": "/testcadet/precache-manifest.71f939bb61e1c057ef2a63e1c7a54ca0.js",
+    "service-worker.js": "/testcadet/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/testcadet/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.31711120.chunk.js.LICENSE.txt": "/testcadet/static/js/2.31711120.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/testcadet/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4175044.js",
+    "static/js/2.31711120.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e4a0f155.chunk.js"
+  ]
+}
