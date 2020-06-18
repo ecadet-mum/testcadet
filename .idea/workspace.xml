@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="18ad92cc-e394-4220-be01-4959f490f6d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592499286795</updated>
-      <workItem from="1592499289684" duration="1992000" />
+      <workItem from="1592499289684" duration="2377000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1592501114828</created>
@@ -71,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592501114828</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new2">
+      <created>1592501295827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592501295827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="new2" />
+    <option name="LAST_COMMIT_MESSAGE" value="new2" />
   </component>
 </project>

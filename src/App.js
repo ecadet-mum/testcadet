@@ -16,6 +16,7 @@ function App() {
   return (
     <div className="App">
       <input type='text' onChange={changeInputValue}/><input type='button' value='Add' onClick={handleClick}/>
+      <p>New things happen</p>
     </div>
   );
 }
